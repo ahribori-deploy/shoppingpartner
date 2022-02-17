@@ -38,6 +38,10 @@ function Seo({ siteMetadata, postMetadata }) {
           property: `og:type`,
           content: `website`,
         },
+        {
+          name: `google-site-verification`,
+          content: `LuiNxzaNkMbxIs87XyNZLKhlOrbpulk-zKeHEwvru9s`
+        }
       ]}
     />
   );
