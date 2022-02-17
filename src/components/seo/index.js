@@ -40,7 +40,7 @@ function Seo({ siteMetadata, postMetadata }) {
         },
         {
           name: `google-site-verification`,
-          content: `LuiNxzaNkMbxIs87XyNZLKhlOrbpulk-zKeHEwvru9s`
+          content: `9ZGMwzThErCJpGhAckjrY2Qt8tTjyJMmOGerPsab6xo`
         }
       ]}
     />
